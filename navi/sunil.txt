@@ -1,3 +1,4 @@
 one lamp
 two lamp
+three lamp
 
